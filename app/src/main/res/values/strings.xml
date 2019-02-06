@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizAzTest</string>
+    <string name="yeriniz">Yeriniz</string>
+    <string name="xal_n_z">Xalınız</string>
+    <string name="m_vzunu_se_oyuna_ba_la">Mövzunu seç, oyuna başla!</string>
+    <string name="user_name">Aytaj Dadashova</string>
+    <string name="netice">Ümumi nəticəniz</string>
+    <string name="score">0</string>
+</resources>
